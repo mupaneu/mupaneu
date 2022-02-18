@@ -2,4 +2,4 @@
 - 👀 I’m interested in codeberg.org .
 - 🌱 I’m currently learning Scribus and InDesign.
 - 💞️ I’m looking to collaborate on data sovereignty.
-- 📫 How to reach me https://digitalcourage.social/@mupan .
+- 📫 How to reach me from.github.com@mupan.de .
